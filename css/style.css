@@ -1,5 +1,8 @@
-h1, p {
-	color: white;
+h1 {
+	color: orange;
+}
+p {
+	color: orange;
 }
 body {
 	background-color: gray;
