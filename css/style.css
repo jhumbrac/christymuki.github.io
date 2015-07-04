@@ -3,7 +3,7 @@ body {
 	background-size: cover;
 	background-color: white;
 	color: #778094;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	font-style: normal;
 	font-weight: normal;
@@ -12,9 +12,11 @@ body {
 h1 {
 	font-weight: 400;
 	font-size: 25px;
+	font-family: 'Biryani', sans-serif;
 }
 p {
 	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
 }
 #slogan {
 	font-style: italic;
@@ -22,5 +24,6 @@ p {
 }
 ul {
 	list-style-type: none;
+	font-family: 'Megrim', serif;
 }
 
