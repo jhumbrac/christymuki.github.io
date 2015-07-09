@@ -9,6 +9,9 @@ body {
 	font-weight: normal;
 	text-align: center;
 }
+header {
+	float: left;
+}
 h1 {
 	font-family: 'Biryani', sans-serif;
 	font-weight: 400;
@@ -22,9 +25,6 @@ p {
 	line-height: 1.5em;
 	margin: 2em;
 	color: #464C57;
-}
-header {
-	float: left;
 }
 div {
 	background: rgba(250,250,250,0.5);
