@@ -22,12 +22,12 @@ p {
 	line-height: 1.5em;
 	margin: 2em;
 	color: #464C57;
-	border-radius: 5px;
 }
 div {
 	background: rgba(250,250,250,0.5);
 	margin: 2em;
 	padding: 0.5em 1em;
+	border-radius: 5px;
 }
 #slogan {
 	font-style: italic;
