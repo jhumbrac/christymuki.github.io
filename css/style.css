@@ -23,15 +23,8 @@ p {
 	margin: 2em;
 	color: #464C57;
 }
-.header img{
-	float: left;
-	width: 75px; 
-	height: 70px;
-}
-.header h1{
-	position: relative;
-	top: 18px;
-	left: 10px;
+header {
+	position: left;
 }
 div {
 	background: rgba(250,250,250,0.5);
