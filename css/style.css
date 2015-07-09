@@ -23,13 +23,13 @@ p {
 	margin: 2em;
 	color: #464C57;
 }
-header h1{
+header img{
 	float: left;
 }
-header img{
+header h1{
 	position: relative;
 	top: 18px;
-	left: 10px;
+	left: 2px;
 }
 div {
 	background: rgba(250,250,250,0.5);
