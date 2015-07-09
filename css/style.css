@@ -27,6 +27,10 @@ p {
 	font-style: italic;
 	font-weight: 700;
 	color: #272A31;
+	font-variant: small-caps;
+	letter-spacing: .25em;
+	padding: 0.2em;
+	text-align:right;
 }
 ul {
 	font-family: 'Megrim', serif;
