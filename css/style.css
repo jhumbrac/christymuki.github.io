@@ -46,8 +46,7 @@ ul {
 	list-style-type: none;
 }
 header {
-	border-color: black;
-	margin: 4em, 1em;
-	border-style: solid;
+	border: 25px solid black;
+	margin: 300px;
 	padding: 0.5em;
 }
