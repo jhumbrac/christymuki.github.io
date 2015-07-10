@@ -9,7 +9,8 @@ body {
 }
 nav {
 	background-color: white;
-	padding: 5em 0;
+	padding: 1em 0;
+	display: block;
 }
 header {
 	background-image: url(/images/marblebackground.jpg);
@@ -77,10 +78,6 @@ section#contact {
 	float: left;
 	padding: 0 1em;
 	width: 50%;
-}
-.wrap {
-	padding: 0 em;
-	display: inline-block;
 }
 #slogan {
 	font-style: italic;
