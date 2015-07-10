@@ -1,13 +1,14 @@
 body {
 	background-image: url(/images/marblebackground.jpg);
 	background-size: cover;
-	background-color: white;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: black;
 	color: #778094;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	font-style: normal;
-	font-weight: normal;
-	text-align: center;
+	font-weight: 100;
 }
 nav {
 	font-family: 'Megrim', serif;
@@ -44,12 +45,12 @@ span {
 	color: #272A31;
 	padding: 0.2em;
 }
-#work {
+section#work {
 	background: url(/images/city.png);
 	background-size: cover;
 	padding: 10em 0;
 }
-#contact {
+section#contact {
 	background-color: white;
 	background-size: cover;
 	padding: 10em 0;
