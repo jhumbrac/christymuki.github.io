@@ -9,6 +9,12 @@ body {
 	font-weight: normal;
 	text-align: center;
 }
+nav {
+	font-family: 'Megrim', serif;
+	font-weight: 400;
+	line-height: 1.5em;
+	list-style-type: none;
+}
 h1 {
 	font-family: 'Biryani', sans-serif;
 	font-weight: 400;
@@ -23,11 +29,11 @@ p {
 	margin: 2em;
 	color: #464C57;
 }
-a {
-	font-family: a_ryal_black_block, sans-serif;
-}
 div {
 	background: rgba(250,250,250,0.5);
+	margin: 2em;
+	padding: 3em 1em;
+	border-radius: 2px;
 }
 #slogan {
 	font-style: italic;
@@ -38,15 +44,4 @@ div {
 span {
 	text-align: right;
 	font-style: small-caps;
-}
-nav {
-	font-family: 'Megrim', serif;
-	font-weight: 400;
-	line-height: 1.5em;
-	list-style-type: none;
-}
-header {
-	border: 25px solid black;
-	margin: 300px;
-	padding: 0.5em;
 }
