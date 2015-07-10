@@ -13,6 +13,9 @@ header {
 	background-repeat: no-repeat;
 }
 nav {
+	background-color: white;
+}
+a {
 	font-family: 'A Ryal Black Block'; src: url(/fonts/a_ryal_black_block.ttf);
 	font-weight: 400;
 	line-height: 1.5em;
