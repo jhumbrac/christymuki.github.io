@@ -23,6 +23,9 @@ p {
 	margin: 2em;
 	color: #464C57;
 }
+a {
+	font-family: a_ryal_black_block, sans-serif;
+}
 div {
 	background: rgba(250,250,250,0.5);
 	margin: 2em;
@@ -39,7 +42,7 @@ span {
 	text-align: right;
 	font-style: small-caps;
 }
-ul {
+nav {
 	font-family: 'Megrim', serif;
 	font-weight: 400;
 	line-height: 1.5em;
