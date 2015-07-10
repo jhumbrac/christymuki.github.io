@@ -28,9 +28,6 @@ a {
 }
 div {
 	background: rgba(250,250,250,0.5);
-	margin: 2em;
-	padding: 3em 1em;
-	border-radius: 2px;
 }
 #slogan {
 	font-style: italic;
