@@ -30,9 +30,10 @@ a {
 	margin: 1em;
 	color: #778094;
 	display: block;
-	border: .5em white dotted;
+	border: .1em white solid;
 	text-align: center;
 	padding: 1em 0;
+	width: 33.33%;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Biryani', sans-serif;
