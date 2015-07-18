@@ -1,0 +1,48 @@
+* { margin:0; padding:0; box-sizing:border-box;}
+body {
+	background-color: #C4A374;
+	color: black;
+	font-family: Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 100;
+}
+nav {
+	background-color: rgba(0,0,0,.8);
+	width: 20px;
+	padding: 0.1em 0;
+}
+header {
+	background-image: url(/unit6images/brittanyhomepage.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+section {
+	padding: 5em 0;
+}
+a {
+	color: black;
+	display: block;
+	float: left;
+	font-family: ;
+	font-weight: 400;
+	line-height: 1.5em;
+	text-decoration:none;
+	margin: 1em .5%;
+	padding: 1em 0;
+	text-decoration: none;
+	width: 15.66%;
+	text-align:center;
+
+#title {
+	float: left;
+	width: 2em;
+	padding: 1em 0;
+	text-align: center;
+}
+#bar {
+	float: right;
+	width: 2em;
+	padding: 1em 0;
+}
+
