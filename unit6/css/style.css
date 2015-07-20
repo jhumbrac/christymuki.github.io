@@ -7,7 +7,7 @@ body {
 	font-style: normal;
 	font-weight: 100;
 	
-	background-image: url(/unit6images/brittanyhomepage.jpg);
+	background-image: url(../unit6images/brittanyhomepage.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -41,4 +41,10 @@ nav a {
 	padding: 1em 0;
 	text-align: center;
 }
-
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
